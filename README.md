@@ -5,7 +5,7 @@ This is a Live OS with an installation of kali KDE Themed look like Windows 10, 
 
 At the moment there isn't a live iso.
 
-#Preview
+# Preview
 
 There is a schreenshot in the repository, thats show you how graphically is the OS
 
